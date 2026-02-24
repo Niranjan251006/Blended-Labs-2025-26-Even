@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: NIRANJAN S
+* **Register Number**: 212224040221
+* **Date of Submission**: 24/02/2025
 
 ---
 
@@ -98,20 +98,23 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: VPC and Subnet Details
+<img width="1918" height="1035" alt="aws lab 201" src="https://github.com/user-attachments/assets/ba9c02df-8328-4c17-85c3-6b5b414928fa" />
 
-(Insert Screenshot Here)
+
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
+<img width="1918" height="1032" alt="aws lab 202" src="https://github.com/user-attachments/assets/89dad430-84be-49eb-a11e-9b21f4d64636" />
 
-(Insert Screenshot Here)
+
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="1918" height="632" alt="aws lab 204" src="https://github.com/user-attachments/assets/0eb9eb12-b5f7-4fe5-ac7d-e296b2bb46ca" />
+
 
 ---
 
