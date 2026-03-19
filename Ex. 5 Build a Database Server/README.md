@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: NIRANJAN S
+* **Register Number**: 212224040221
+* **Date of Submission**: 18/3/2026
 
 ---
 
@@ -84,31 +84,35 @@ Test the database server by connecting to it locally or remotely and performing 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1.Logged into the AWS Management Console and launched a new EC2 instance using Amazon Linux 2 AMI, selected instance type, created key pair, and configured security group.
+2.Modified the security group to allow SSH (port 22) and MySQL port (3306) for database access.
+3.Connected to the EC2 instance using SSH from my local system using the key pair.
+4.Installed the MySQL database server using package manager commands (sudo yum install mysql-server).
+5.Started the MySQL service and enabled it, then secured the installation by setting a root password and configuring basic settings.
+6.Created a sample database and table using SQL commands and inserted sample records.
+7.Tested the database by running queries to retrieve data and verified that the database server was working correctly
 
 ---
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
+<img width="1920" height="1080" alt="566162317-f701b3b3-31eb-4b1c-8508-812bd662516f" src="https://github.com/user-attachments/assets/f68bccce-3911-4768-a785-79a2405a8f11" />
 
-(Insert Screenshot Here)
 
 ---
 
 ### Screenshot 2: Database Service Running
+<img width="1920" height="1080" alt="566162401-90e243a7-5125-49db-b61a-76dbf917e4b4" src="https://github.com/user-attachments/assets/004c2afe-93fb-4e03-ac29-1469deae4bfe" />
 
-(Insert Screenshot Here)
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
 (Insert Screenshot Here)
+<img width="1920" height="1080" alt="566162479-66975846-d3ab-4977-82d2-0f5c1c57c899" src="https://github.com/user-attachments/assets/7d930ff6-a26f-4ce1-b52f-af42fdf97818" />
 
 ---
 
